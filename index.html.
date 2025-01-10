@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portafolio de Diego Bernaola</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            line-height: 1.6;
+        }
+        h1 {
+            color: #333;
+        }
+        .project {
+            margin-bottom: 20px;
+        }
+        .project img {
+            max-width: 100%;
+            height: auto;
+        }
+        .project a {
+            color: #007bff;
+            text-decoration: none;
+        }
+        .project a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <h1>Portafolio de Diego Bernaola</h1>
+    <p>¡Bienvenido a mi portafolio! Aquí encontrarás proyectos de análisis de datos con Power BI, SQL y Python.</p>
+
+    <div class="project">
+        <h2>1. Análisis de Datos Definitivos de Automóviles (2024)</h2>
+        <p>Este proyecto analiza el rendimiento, precios y especificaciones de automóviles en 2024. Incluye insights visuales en Power BI.</p>
+        <img src="ejercicio 1.jpg" alt="Dashboard Automóviles">
+        <p><a href="automoviles 2024.pbix" target="_blank">Ver más detalles</a></p>
+    </div>
+
+    <!-- Agrega más secciones de proyectos aquí -->
+
+</body>
+</html>
