@@ -36,8 +36,8 @@
     <div class="project">
         <h2>1. Análisis de Datos Definitivos de Automóviles (2024)</h2>
         <p>Este proyecto analiza el rendimiento, precios y especificaciones de automóviles en 2024. Incluye insights visuales en Power BI.</p>
-        <img src="ejercicio 1.jpg" alt="Dashboard Automóviles">
-        <p><a href="automoviles 2024.pbix" target="_blank">Ver más detalles</a></p>
+        <img src="ejercicio1.jpg" alt="Dashboard Automóviles">
+        <p><a href="automoviles2024.pbix" target="_blank">Ver más detalles</a></p>
     </div>
 
     <!-- Agrega más secciones de proyectos aquí -->
